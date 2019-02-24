@@ -1,0 +1,1 @@
+.git,hike.jpg,index.js,listOfFiles.txt,node_modules,package-lock.json,package.json,README.md
